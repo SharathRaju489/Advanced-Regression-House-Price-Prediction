@@ -16,13 +16,14 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 
 ## Conclusions
+
 - Based on the requirement, the company shouls focus on purchasing houses below the market value by concentrating more on the negative parameters.
 - And by improving the above variables abd mentioning the high valued positive variables they can make profits
 - Above grade (ground) living area square feet is contributing highly to the SalePrice
 - Good and excellent exterior and basement quality is better sold
-- Places in Northridge, Northridge Heights and Stone Brook locations are high in demand and thus sold faster and for high rates
-- 1 is the Optimal value for lambda in ridge regressiog
-- 100 is the Optimal value for lambda in lasso regression
+- Places in Northridge, Northridge Heights and Stone Brook locations are low in demand and thus sold slower and for lower rates
+- 1 is the Optimum value for lambda in ridge regressiog
+- 100 is the Optimum value for lambda in lasso regression
 
 
 ## Technologies Used
